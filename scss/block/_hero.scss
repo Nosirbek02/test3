@@ -1,0 +1,36 @@
+.hero__block {
+    max-width: 1280px;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-image: url('../../img/Bitmap.jpg');
+}
+
+.hero__container{
+    margin-bottom: 168px;
+}
+
+.hero__content {
+    max-width: 445px;
+    height: 176px;
+    padding-top: 137px;
+    margin-left: 86px;
+}
+
+.hero__title {
+    height: 48px;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+    margin-bottom: 24px;
+}
+
+.hero__text {
+    height: 104px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+}
