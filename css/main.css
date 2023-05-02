@@ -160,7 +160,7 @@ body {
   max-width: 1280px;
   height: 450px;
   background-repeat: no-repeat;
-  background-image: url("../../img/Bitmap.jpg");
+  background-image: url("../img/hero__img.svg");
 }
 
 .hero__container {
